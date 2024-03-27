@@ -13,6 +13,6 @@ export default {
     website: {
       template: 'carbon-multi-page',
       staticAssets: path.join(__dirname, 'assets'),
-      siteRoot: '/MagidocTest',
+      siteRoot: 'https://jdalphond.github.io/MagidocTest/',
     },
   }
