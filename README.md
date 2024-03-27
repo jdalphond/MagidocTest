@@ -1,0 +1,2 @@
+# MagidocTest
+Magidoc Test
